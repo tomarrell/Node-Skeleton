@@ -1,0 +1,28 @@
+{
+  "name": "node-skeleton",
+  "version": "0.0.0",
+  "description": "A simple NodeJS-Express skeleton to get you started quickly",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "engines": {
+    "node": "6.5.0"
+  },
+  "repository": {},
+  "author": "Tom Arrell",
+  "contributors": [
+    "Tom Arrell <me@tomarrell.com> (https://tomarrell.com)"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^3.10.2",
+    "eslint-config-airbnb": "^13.0.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^2.2.3",
+    "eslint-plugin-react": "^6.7.1"
+  }
+}
